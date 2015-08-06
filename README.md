@@ -11,11 +11,11 @@ Download from here.
 Build
 -----
 
-		cd grunt
-		grunt dist
+	cd grunt
+	grunt dist
 
-		# watch files for development
-		grunt watch
+	# watch files for development
+	grunt watch
 
 Author
 ------
