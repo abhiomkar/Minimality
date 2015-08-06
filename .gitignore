@@ -1,0 +1,6 @@
+grunt/node_modules
+grunt/.sass-cache
+.DS_Store
+npm-debug.log
+minimality.zip
+*.scssc
