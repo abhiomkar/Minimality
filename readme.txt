@@ -1,10 +1,23 @@
-Thank you for using the "Minimality"" Wordpress Theme.
+Minimality
+==========
 
-	i)
-	ii)
-	iv)
+Minimal wordpress theme for real programmers & hackers.
 
-## Copyrights for Resources used in this theme.
+Installation
+------------
 
+Download from here.
 
-	For any help you can mail us at abhiomkar@gmail.com
+Build
+-----
+
+		cd grunt
+		grunt dist
+
+		# watch files for development
+		grunt watch
+
+Author
+------
+
+Abhinay Omkar
