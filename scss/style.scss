@@ -560,7 +560,7 @@ h2.month {
 	display: none;
 }
 
-input[type="submit"] {
+input[type="submit"], button {
   background: #5badf0;
   color: #fff;
   padding: 8px 12px;
@@ -576,7 +576,7 @@ input[type="submit"]:hover {
 	cursor: pointer;
 }
 
-.comments textarea, .comments input[type="text"] {
+textarea, .comments textarea, input[type="text"], .comments input[type="text"] {
 	// box-shadow: -1px 1px 4px #D6D6D6 inset;
 	font-size: 13px;
 	outline: 0;
