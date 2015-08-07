@@ -27,6 +27,10 @@ body {
   line-height: 1;
 }
 
+header {
+  margin-top: 40px;
+}
+
 blockquote, q {
   quotes: none;
 }
