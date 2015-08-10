@@ -197,6 +197,11 @@ li {
   line-height: 1.7;
 }
 
+#post-body img {
+  max-width: 100%;
+  height: auto !important;
+}
+
 b, strong {
   font-weight: bold;
 }
